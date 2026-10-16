@@ -1,0 +1,4 @@
+# dependencies requiremnets
+
+nicegui>=3.18.0
+boto3>=1.43.114
